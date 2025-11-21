@@ -1,0 +1,16 @@
+{
+	"info": {
+		"_postman_id": "af2f7816-8b08-42ac-8450-d0b3068fa138",
+		"name": "Blog Platform",
+		"description": "- Register\n    \n- Login\n    \n- Create post\n    \n- Update post\n    \n- Delete post\n    \n- Show posts\n    \n- Create Comment",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "44263132"
+	},
+	"item": []
+}
+
+
+
+Document URL:
+
+https://documenter.getpostman.com/view/44263132/2sB3dHVCZ5
