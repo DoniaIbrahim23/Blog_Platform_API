@@ -24,7 +24,7 @@ class CommentController extends Controller
         $comment = Comment::create([
             'comment'  => $request->input('comment'),
             'user_id'  => $request->user()->id,
-            'blog_id'  => $post->id, // ✅ لسه بنستخدم blog_id في الداتا بيز
+            'blog_id'  => $post->id,
         ]);
 
         return response()->json([
